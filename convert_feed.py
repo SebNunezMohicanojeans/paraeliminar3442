@@ -38,6 +38,20 @@ def fetch_with_retry(url, params, retries=3, delay=10):
     raise RuntimeError("No se pudo conectar a la API después de varios intentos.")
 
 
+print("Fetching categories from PrestaShop API...")
+cat_resp = fetch_with_retry(f"{BASE_URL}/api/categories", params={
+    'ws_key': API_KEY,
+    'output_format': 'XML',
+    'display': '[id,name]',
+})
+cat_tree = ET.fromstring(cat_resp.content)
+categories = {
+    c.findtext('id').strip(): (c.findtext('.//name/language') or '').strip()
+    for c in cat_tree.findall('.//category')
+    if c.findtext('id')
+}
+print(f"Found {len(categories)} categories.")
+
 print("Fetching products from PrestaShop API...")
 resp = fetch_with_retry(f"{BASE_URL}/api/products", params={
     'ws_key': API_KEY,
@@ -74,7 +88,7 @@ for p in products:
         p.findtext('.//description_short/language')
         or p.findtext('.//description/language')
         or ''
-    )
+    ) or name  # fallback al nombre si no hay descripción
     price_raw = p.findtext('price') or '0'
     price = f"{float(price_raw):.0f} CLP"
 
@@ -94,6 +108,8 @@ for p in products:
         else 'out of stock'
     )
     ref = (p.findtext('reference') or '').strip()
+    cat_id = (p.findtext('id_category_default') or '').strip()
+    cat_name = categories.get(cat_id, '')
 
     lines.append('<item>')
     lines.append(f'<g:id>{pid}</g:id>')
@@ -105,6 +121,8 @@ for p in products:
         lines.append(f'<g:image_link>{img}</g:image_link>')
     lines.append(f'<g:availability>{avail}</g:availability>')
     lines.append('<g:condition>new</g:condition>')
+    if cat_name:
+        lines.append(f'<g:product_type><![CDATA[{cat_name}]]></g:product_type>')
     if ref:
         lines.append(f'<g:mpn><![CDATA[{ref}]]></g:mpn>')
     lines.append('</item>')
