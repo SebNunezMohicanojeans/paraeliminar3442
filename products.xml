@@ -40,6 +40,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/6/7/4/1/6741-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[PRODUCTOS B2B]]></g:product_type>
 <g:mpn><![CDATA[389700B2B]]></g:mpn>
 </item>
 <item>
@@ -69,6 +70,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/6/7/5/3/6753-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[389201B2B]]></g:mpn>
 </item>
 <item>
@@ -80,6 +82,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/6/7/6/3/6763-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[PREVENTA]]></g:product_type>
 <g:mpn><![CDATA[390200B2B]]></g:mpn>
 </item>
 <item>
@@ -110,6 +113,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/6/7/7/0/6770-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[PREVENTA]]></g:product_type>
 <g:mpn><![CDATA[390600B2B]]></g:mpn>
 </item>
 <item>
@@ -145,6 +149,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/0/8/6/7086-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[PREVENTA]]></g:product_type>
 <g:mpn><![CDATA[393700B2B]]></g:mpn>
 </item>
 <item>
@@ -174,6 +179,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/6/7/8/1/6781-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[391900B2B]]></g:mpn>
 </item>
 <item>
@@ -202,6 +208,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/0/3/2/7032-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[394700B2B]]></g:mpn>
 </item>
 <item>
@@ -234,6 +241,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/6/8/0/0/6800-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[390500B2B]]></g:mpn>
 </item>
 <item>
@@ -266,6 +274,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/6/8/0/6/6806-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[396000B2B]]></g:mpn>
 </item>
 <item>
@@ -297,6 +306,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/6/8/2/3/6823-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[396100B2B]]></g:mpn>
 </item>
 <item>
@@ -308,6 +318,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/6/8/4/5/6845-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[PREVENTA]]></g:product_type>
 <g:mpn><![CDATA[391901B2B]]></g:mpn>
 </item>
 <item>
@@ -337,28 +348,31 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/0/9/2/7092-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[391500B2B]]></g:mpn>
 </item>
 <item>
 <g:id>1683</g:id>
 <g:title><![CDATA[Skinny 3949 B2B]]></g:title>
-<g:description><![CDATA[]]></g:description>
+<g:description><![CDATA[Skinny 3949 B2B]]></g:description>
 <g:price>0 CLP</g:price>
 <g:link>https://mayorista.mohicano.cl/1683-skinny-3949-b2b.html</g:link>
 <g:image_link>https://mayorista.mohicano.cl/img/p/6/8/6/1/6861-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[PREVENTA]]></g:product_type>
 <g:mpn><![CDATA[394900B2B]]></g:mpn>
 </item>
 <item>
 <g:id>1684</g:id>
 <g:title><![CDATA[Skinny 3956 B2B]]></g:title>
-<g:description><![CDATA[]]></g:description>
+<g:description><![CDATA[Skinny 3956 B2B]]></g:description>
 <g:price>0 CLP</g:price>
 <g:link>https://mayorista.mohicano.cl/1684-skinny-3956-b2b.html</g:link>
 <g:image_link>https://mayorista.mohicano.cl/img/p/6/8/7/1/6871-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[PREVENTA]]></g:product_type>
 <g:mpn><![CDATA[395600B2B]]></g:mpn>
 </item>
 <item>
@@ -387,6 +401,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/0/8/1/7081-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[394100B2B]]></g:mpn>
 </item>
 <item>
@@ -421,6 +436,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/6/8/8/7/6887-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[395700B2B]]></g:mpn>
 </item>
 <item>
@@ -449,6 +465,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/6/8/9/1/6891-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[PREVENTA]]></g:product_type>
 <g:mpn><![CDATA[399000B2B]]></g:mpn>
 </item>
 <item>
@@ -477,6 +494,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/6/8/9/6/6896-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[392400B2B]]></g:mpn>
 </item>
 <item>
@@ -509,6 +527,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/6/9/0/1/6901-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[395001B2B]]></g:mpn>
 </item>
 <item>
@@ -537,6 +556,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/6/9/0/6/6906-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[PREVENTA]]></g:product_type>
 <g:mpn><![CDATA[395400B2B]]></g:mpn>
 </item>
 <item>
@@ -567,6 +587,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/6/9/2/3/6923-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[394400B2B]]></g:mpn>
 </item>
 <item>
@@ -593,6 +614,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/6/9/2/9/6929-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[395500B2B]]></g:mpn>
 </item>
 <item>
@@ -625,6 +647,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/6/9/3/5/6935-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[397100B2B]]></g:mpn>
 </item>
 <item>
@@ -656,6 +679,7 @@
 <g:link>https://mayorista.mohicano.cl/1706-flare-3820-b2b.html</g:link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[394001B2B]]></g:mpn>
 </item>
 <item>
@@ -685,6 +709,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/0/1/2/7012-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[PREVENTA]]></g:product_type>
 <g:mpn><![CDATA[392101B2B]]></g:mpn>
 </item>
 <item>
@@ -706,6 +731,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/0/1/9/7019-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[393001B2B]]></g:mpn>
 </item>
 <item>
@@ -734,6 +760,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/0/2/4/7024-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[394701B2B]]></g:mpn>
 </item>
 <item>
@@ -762,6 +789,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/0/4/3/7043-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[394702B2B]]></g:mpn>
 </item>
 <item>
@@ -794,6 +822,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/0/5/5/7055-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[390501B2B]]></g:mpn>
 </item>
 <item>
@@ -835,6 +864,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/0/6/6/7066-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[387800B2B]]></g:mpn>
 </item>
 <item>
@@ -875,6 +905,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/0/7/1/7071-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[388300B2B]]></g:mpn>
 </item>
 <item>
@@ -898,6 +929,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/0/7/3/7073-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[Inicio]]></g:product_type>
 <g:mpn><![CDATA[387900B2B]]></g:mpn>
 </item>
 <item>
@@ -928,6 +960,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/0/8/0/7080-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[383400B2B]]></g:mpn>
 </item>
 <item>
@@ -967,6 +1000,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/2/3/6/7236-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[PRODUCTOS B2B]]></g:product_type>
 <g:mpn><![CDATA[410600B2B]]></g:mpn>
 </item>
 <item>
@@ -1017,6 +1051,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/2/4/1/7241-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[PRODUCTOS B2B]]></g:product_type>
 <g:mpn><![CDATA[410900B2B]]></g:mpn>
 </item>
 <item>
@@ -1067,6 +1102,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/2/5/2/7252-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[PRODUCTOS B2B]]></g:product_type>
 <g:mpn><![CDATA[411000B2B]]></g:mpn>
 </item>
 <item>
@@ -1095,6 +1131,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/2/7/3/7273-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[411300B2B]]></g:mpn>
 </item>
 <item>
@@ -1123,6 +1160,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/2/6/6/7266-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[411301B2B]]></g:mpn>
 </item>
 <item>
@@ -1152,6 +1190,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/2/8/0/7280-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[411600B2B]]></g:mpn>
 </item>
 <item>
@@ -1181,6 +1220,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/2/8/6/7286-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[412100B2B]]></g:mpn>
 </item>
 <item>
@@ -1209,6 +1249,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/2/9/1/7291-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[412400B2B]]></g:mpn>
 </item>
 <item>
@@ -1236,6 +1277,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/2/9/7/7297-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[412500B2B]]></g:mpn>
 </item>
 <item>
@@ -1264,6 +1306,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/3/0/8/7308-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[413000B2B]]></g:mpn>
 </item>
 <item>
@@ -1292,6 +1335,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/3/1/5/7315-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[PRODUCTOS B2B]]></g:product_type>
 <g:mpn><![CDATA[400100B2B]]></g:mpn>
 </item>
 <item>
@@ -1319,6 +1363,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/3/2/0/7320-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[PRODUCTOS B2B]]></g:product_type>
 <g:mpn><![CDATA[400200B2B]]></g:mpn>
 </item>
 <item>
@@ -1348,6 +1393,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/3/4/1/7341-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[400700B2B]]></g:mpn>
 </item>
 <item>
@@ -1376,6 +1422,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/3/5/6/7356-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[400900B2B]]></g:mpn>
 </item>
 <item>
@@ -1405,6 +1452,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/3/6/1/7361-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[401000B2B]]></g:mpn>
 </item>
 <item>
@@ -1435,6 +1483,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/3/6/3/7363-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[401100B2B]]></g:mpn>
 </item>
 <item>
@@ -1465,6 +1514,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/3/7/6/7376-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[401101B2B]]></g:mpn>
 </item>
 <item>
@@ -1495,6 +1545,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/3/7/8/7378-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[401200B2B]]></g:mpn>
 </item>
 <item>
@@ -1525,6 +1576,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/3/8/8/7388-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[401201B2B]]></g:mpn>
 </item>
 <item>
@@ -1554,6 +1606,7 @@
 <g:image_link>https://mayorista.mohicano.cl/img/p/7/3/9/4/7394-large_default.jpg</g:image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
+<g:product_type><![CDATA[ENTREGA INMEDIATA]]></g:product_type>
 <g:mpn><![CDATA[401500B2B]]></g:mpn>
 </item>
 </channel>
