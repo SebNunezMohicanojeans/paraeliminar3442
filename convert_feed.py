@@ -1,10 +1,16 @@
 import os
 import re
+import time
 import requests
 import xml.etree.ElementTree as ET
 
 API_KEY = os.environ['PS_API_KEY']
 BASE_URL = 'https://mayorista.mohicano.cl'
+
+HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+    'Accept': 'application/xml, text/xml, */*',
+}
 
 
 def strip_html(text):
@@ -18,13 +24,26 @@ def image_url(image_id):
     return f"{BASE_URL}/img/p/{path}/{image_id}-large_default.jpg"
 
 
+def fetch_with_retry(url, params, retries=3, delay=10):
+    for attempt in range(1, retries + 1):
+        try:
+            print(f"Intento {attempt}/{retries}...")
+            resp = requests.get(url, params=params, headers=HEADERS, timeout=180)
+            resp.raise_for_status()
+            return resp
+        except Exception as e:
+            print(f"Error en intento {attempt}: {e}")
+            if attempt < retries:
+                time.sleep(delay)
+    raise RuntimeError("No se pudo conectar a la API después de varios intentos.")
+
+
 print("Fetching products from PrestaShop API...")
-resp = requests.get(f"{BASE_URL}/api/products", params={
+resp = fetch_with_retry(f"{BASE_URL}/api/products", params={
     'ws_key': API_KEY,
     'output_format': 'XML',
     'display': 'full',
-}, timeout=120)
-resp.raise_for_status()
+})
 
 ps = ET.fromstring(resp.content)
 products = ps.findall('.//product')
