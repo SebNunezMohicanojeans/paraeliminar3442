@@ -8,6 +8,8 @@ on:
 jobs:
   generate-feed:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Descargar repositorio
         uses: actions/checkout@v4
