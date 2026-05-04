@@ -1,0 +1,34 @@
+name: Actualizar catálogo de productos
+
+on:
+  schedule:
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: pip install requests
+
+      - name: Generar XML en formato Google Shopping
+        env:
+          PS_API_KEY: ${{ secrets.PS_API_KEY }}
+        run: python convert_feed.py
+
+      - name: Publicar XML actualizado
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add products.xml
+          git diff --staged --quiet || git commit -m "Actualizar catálogo de productos"
+          git push
